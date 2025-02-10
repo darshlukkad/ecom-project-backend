@@ -1,0 +1,10 @@
+/target/
+.settings/org.eclipse.jdt.core.prefs
+.classpath
+.project
+.settings/org.eclipse.core.resources.prefs
+bin/.settings/org.eclipse.core.resources.prefs
+bin/HELP.md
+bin/mvnw.cmd
+bin/pom.xml
+bin/src/main/java/com/project/ecom_proj/controller/ProductController.class
